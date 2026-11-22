@@ -1,4 +1,0 @@
-<Solution>
-  <Project Path="Device.csproj" />
-  <Project Path="DeviceMonitoringDashboard/DeviceMonitoringDashboard.csproj" />
-</Solution>
